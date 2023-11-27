@@ -5,7 +5,7 @@
 ## Installation
 
 Must have latest Python and PyGame library installed
-![alt text](http://url/to/img.png](https://github.com/gagoalaverdyan/PySnake/blob/main/game.png?raw=Tre)
+![alt text](game.png)
 ```sh
 pip install pygame
 git clone https://github.com/gagoalaverdyan/PySnake.git
